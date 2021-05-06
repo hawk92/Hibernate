@@ -2,3 +2,5 @@
 /common/target/
 /hibernate/target/
 /jpa/target/
+.idea
+*.iml
